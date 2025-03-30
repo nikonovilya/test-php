@@ -3,7 +3,7 @@
 Небольшой учебный проект на **чистом PHP** без фреймворков.  
 Реализует динамическую генерацию контента, фильтрацию данных в постах, валидацию и отправку формы в Google Таблицы.
 
-🔗 Демо (Vercel, заглушка): [https://test-php.vercel.app](https://test-php.vercel.app)  
+🔗 Демо (Render): [https://test-php-yws3.onrender.com/index.php](https://test-php-yws3.onrender.com/index.php)  
 📊 Google Таблица: [открыть](https://docs.google.com/spreadsheets/d/1eN-x9JXzSbuu2pIAC7iR_f9bTK050S_6IL3tiHEXXpo/edit?gid=0#gid=0)
 
 ---
