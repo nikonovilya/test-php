@@ -71,7 +71,7 @@ function handleFormSubmission(): array
     $errors = validateFormData($formData);
 
     if (empty($errors)) {
-      $googleApiUrl = 'https://script.google.com/macros/s/AKfycbyFxCrdIDALeZYWBnpicVw8fWC28ay7p9HGoM_KwnoVkmqqJeMKxUQfMGMuC0_FzVLSow/exec2';
+      $googleApiUrl = 'https://script.google.com/macros/s/AKfycbyFxCrdIDALeZYWBnpicVw8fWC28ay7p9HGoM_KwnoVkmqqJeMKxUQfMGMuC0_FzVLSow/exec';
 
       $options = [
         'http' => [
